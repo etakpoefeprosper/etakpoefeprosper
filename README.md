@@ -7,7 +7,7 @@ I transform data into meaningful insights that drive smarter decisions.
 
 ---
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left"> About Me</h2>
 
 <p align="left">
 I am a passionate data analyst with a strong interest in data-driven problem solving,
@@ -23,7 +23,7 @@ and database management.
 
 ---
 
-<h2 align="left">🛠️ Skills & Tools</h2>
+<h2 align="left"> Skills & Tools</h2>
 
 <p align="left">
 ✔ Data Analysis  
@@ -36,7 +36,7 @@ and database management.
 
 ---
 
-<h2 align="left">💻 I Code With</h2>
+<h2 align="left">  Tools Used </h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
@@ -48,7 +48,7 @@ and database management.
 
 ---
 
-<h2 align="left">📊 Featured Project</h2>
+<h2 align="left"> Featured Project</h2>
 
 <h3 align="left">Excel Sales Data Analysis Using Pivot Tables</h3>
 
@@ -65,12 +65,12 @@ to uncover business insights.
 </p>
 
 <p align="left">
-🔗 <em>(You can insert your GitHub project link here)</em>
+🔗 <em>()</em>
 </p>
 
 ---
 
-<h2 align="left">📫 Connect With Me</h2>
+<h2 align="left"> Connect With Me</h2>
 
 <div align="left">
   <a href="https://linkedin.com/in/etakpoefe-prosper-analyst-uk" target="_blank">
