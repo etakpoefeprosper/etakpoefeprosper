@@ -34,7 +34,7 @@ Currently expanding my expertise in advanced SQL, DAX, data modeling, and storyt
 
 ---
 
-## 🛠️ Skills & Competencies
+## Skills & Competencies
 
 - **Core Analysis** — Data Cleaning, Transformation, EDA  
 - **Visualization & Reporting** — Interactive Dashboards, Storytelling  
@@ -105,7 +105,7 @@ I'm always open to discussing data challenges, collaboration opportunities, or c
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:etakpoefeprosper@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
